@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+jzm3_side_buttons
+
+# macOS
+.DS_Store
+__MACOSX
+._*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.bak
